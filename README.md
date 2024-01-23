@@ -1,4 +1,4 @@
-![Character and word counter Thumbnail](https://imgur.com/a/A8lRrWz)
+![Character and word counter Thumbnail](https://i.imgur.com/6GhpKwZ.png)
 
 # Character and word counter thumbnail
 
