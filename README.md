@@ -10,7 +10,7 @@ This project uses JavaScript features and DOM (Document Object Model) manipulati
 
 ## Project photos
 
-    - result of the Vercel project: 
+    - result of the Vercel project: https://character-and-word-counter-js.vercel.app/
 
 ![GIF of the result](gif/project-result.gif)
 
